@@ -59,5 +59,8 @@ An end-to-end E-Commerce Sales Analysis project using Python, Pandas, MySQL, and
 * Data visualisation and business insights
 
 ## 👤 Author
-Nagubothu Anuroopsai
-Data Analyst Portfolio Project
+👤 **Author**
+
+**Anuroop Sai Nagubothu**
+Data Analyst | SQL | Python | Power BI | Tableau
+
