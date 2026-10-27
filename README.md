@@ -80,3 +80,18 @@ Python and Pandas were used to explore and analyze the e-commerce sales dataset.
 **Anuroop Sai Nagubothu**
 Data Analyst | SQL | Python | Power BI | Tableau
 
+---
+
+## 📊 Dashboard Preview
+
+### Page 1 — Sales Overview
+
+![E-Commerce Sales Dashboard - Page 1](dashboard_page1.png)
+
+### Page 2 — Detailed Sales Analysis
+
+![E-Commerce Sales Dashboard - Page 2](dashboard_page2.png)
+
+
+
+
