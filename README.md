@@ -35,6 +35,22 @@ An end-to-end E-Commerce Sales Analysis project using Python, Jupyter Notebook, 
 * Top Customers by Revenue
 * Order Status Distribution
 
+* ## Python Data Analysis
+
+Python and Pandas were used to explore and analyze the e-commerce sales dataset.
+
+**Analysis performed:**
+
+* Data loading and inspection
+* Data cleaning and handling missing values
+* Exploratory Data Analysis (EDA)
+* Sales and revenue analysis
+* Product and customer analysis
+* Preparation of insights for the Power BI dashboard
+
+**Notebook:** `ECommerce Sales Analysis.ipynb`
+
+
 ## 🧹 Data Preparation
 
 * Removed duplicate records.
