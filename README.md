@@ -4,7 +4,7 @@ E-Commerce Sales Analysis using Python, Pandas, SQL, and Power BI to clean data,
 
 ## 📌 Project Overview
 
-An end-to-end E-Commerce Sales Analysis project using Python, Pandas, MySQL, and Power BI to clean, analyse, and visualise sales data. The project explores revenue trends, product performance, customer behaviour, and geographical sales distribution.
+An end-to-end E-Commerce Sales Analysis project using Python, Jupyter Notebook, Pandas, MySQL, and Power BI to clean, analyse, and visualise sales data. The project explores revenue trends, product performance, customer behaviour, and geographical sales distribution.
 
 ## 🛠️ Tools & Technologies
 
